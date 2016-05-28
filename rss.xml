@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[the gap art]]></title>
         <description><![CDATA[the gap art]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-gap-art/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 02:09:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 28 May 2016 02:09:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-gap-art/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[City]]></title>
+            <description><![CDATA[<article><h1>City</h1><p>Acrylic on canvas 2015 3' x 3'</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bdaf636-4f07-4148-a817-fdec3f6047bb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-gap-art/city/index.html</link>
+            <guid isPermaLink="false">eb9422d1-9568-4849-ab7d-a18ea669d4cd</guid>
+            <pubDate>Sat, 28 May 2016 02:09:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Los Conquistadores]]></title>
             <description><![CDATA[<article><h1>Los Conquistadores</h1><p>Photography of first generation Chicago NON GMO corn 2015</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/82e7ff225f5c2bb3618dd7c535fcfdcd42602824.jpg"></article>]]></description>
-            <link>undefinedlos-conquistadores/index.html</link>
+            <link>https://thegrid.ai/the-gap-art/los-conquistadores/index.html</link>
             <guid isPermaLink="false">d0d1d376-b1f3-469a-9ede-bf012af6c115</guid>
             <pubDate>Sat, 28 May 2016 02:09:22 GMT</pubDate>
         </item>
