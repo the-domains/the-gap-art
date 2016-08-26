@@ -1,4 +1,3 @@
-layout_spectrum: 0.162825868697837
 typography_spectrum: 0.6853998128790408
 color:
   brandStrength: 0.06946410168893635
@@ -11,4 +10,6 @@ color:
     - '#BDD4DE'
     - '#EFEFEF'
     - '#FF530D'
+layout_spectrum: 0.162825868697837
 name: the gap art
+description: Artist
